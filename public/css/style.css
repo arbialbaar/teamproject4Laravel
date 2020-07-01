@@ -1,0 +1,44 @@
+#hai1{
+    color : green;
+    font-size: 25px;
+    font-family: 'MuseoModerno', cursive;
+}
+
+#hai{
+    font-size: 18px;
+}
+
+.compro{
+    font-size: 50px;
+    color: green;
+    font-family: 'Lato', sans-serif;
+}
+
+#compro{
+    margin-top: 170px; 
+    margin-bottom : 150px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+  }
+
+.control{
+    background-size: cover;
+}
+
+.imgabout{
+    border-radius: 20px;
+    width: 100%;
+}
+
+#aboutvh{
+    font-family: 'Lato', sans-serif;
+}
+
+.icon{
+    margin-right: 20px;
+}
